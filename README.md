@@ -56,7 +56,7 @@ https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY
  
  ### Screenshot
  
- <img src="/assets/screenshot_1.png" width="400" height="600"> <img src="/assets/screenshot_2.png" width="400" height="600">
+ <img src="/assets/screenshot_1.png" width="340" height="600"> <img src="/assets/screenshot_2.png" width="340" height="600">
  
  ### License
  
