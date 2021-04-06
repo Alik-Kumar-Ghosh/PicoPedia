@@ -12,7 +12,7 @@ Photograph showcasing app built using react-native
 ---
 
 ### Technologies Used
-` <React-native> `
+` <React-native> ` <br>
 ` <Unplash API>  `
 
 ---
