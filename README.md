@@ -3,9 +3,9 @@ Photograph showcasing app built using react-native
 
 
 ## Play store 
-[Playstore]()
+[Playstore](https://play.google.com/store/apps/details?id=com.picopedia)
 
-<a href=""> <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" height="80"> </a>
+<a href="https://play.google.com/store/apps/details?id=com.picopedia"> <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" height="80"> </a>
 
 > Download and check this app out 
 
