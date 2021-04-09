@@ -11,7 +11,8 @@ export default class App extends React.Component {
     }
 }
 componentDidMount() {
-  const apiUrl = "Your api key goes here";
+  const key ="Your API key goes here"
+  const apiUrl = "https://api.unsplash.com/photos?client_id="+key;
   fetch(apiUrl)
           .then((response) => response.json())
           .then((json) =>
