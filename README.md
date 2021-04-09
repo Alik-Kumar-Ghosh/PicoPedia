@@ -36,7 +36,7 @@ copy your api keys and paste here
 
 ```javascript
 
-const apiUrl = "Your api key goes here";
+const key = "Your api key goes here";
 
 ```
 
