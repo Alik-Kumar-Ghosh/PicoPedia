@@ -3,9 +3,13 @@ Photograph showcasing app built using react-native
 
 
 ## Play store 
-[Playstore](https://play.google.com/store/apps/details?id=com.picopedia) <br> <br> (Version 2.0.1)
+[Playstore](https://play.google.com/store/apps/details?id=com.picopedia) <br> <br>
+[Amazon App Store](https://www.amazon.com/dp/B093PT1BMS/ref=sr_1_1?dchild=1&keywords=picopedia&qid=1619675876&sr=8-1) <br> <br> (Version 2.0.1)
 
 <a href="https://play.google.com/store/apps/details?id=com.picopedia"> <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" height="80"> </a>
+<br>
+<a href="https://www.amazon.com/dp/B093PT1BMS/ref=sr_1_1?dchild=1&keywords=picopedia&qid=1619675876&sr=8-1"> <img src="https://exelerus.com/mobiledev/amazon/img/background2.png" width="170" height="90"> </a>
+
 
 > Download and check this app out 
 
